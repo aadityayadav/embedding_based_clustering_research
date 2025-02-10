@@ -1,0 +1,1 @@
+More details about the collections can be found here: https://github.com/gagolews/clustering-data-v1/tree/master/.catalogue
