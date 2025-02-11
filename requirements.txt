@@ -1,2 +1,10 @@
 clustering-benchmarks
 Cython
+tensorflow
+bs4
+transformers
+sentence-transformers
+ipywidgets
+umap-learn
+tensorflow-hub
+gensim
