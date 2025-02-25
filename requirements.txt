@@ -8,3 +8,9 @@ ipywidgets
 umap-learn
 tensorflow-hub
 gensim
+kmodes
+hdbscan
+fuzzy-c-means
+minisom
+scikit-learn-extra
+density-peaks
