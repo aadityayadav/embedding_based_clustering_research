@@ -13,5 +13,4 @@ hdbscan
 fuzzy-c-means
 minisom
 scikit-learn-extra
-density-peaks
 python-dotenv 
