@@ -2,3 +2,4 @@ framework/github.com/*
 framework/.ipynb_checkpoints/*
 venv/*
 framework/embedding_cache/*
+.venv
