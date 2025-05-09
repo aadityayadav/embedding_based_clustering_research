@@ -1,0 +1,5 @@
+#!/Users/aaditya/development/embedding_based_clustering_research/.conda/bin/python3.11
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()

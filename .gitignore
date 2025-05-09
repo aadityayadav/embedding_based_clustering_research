@@ -3,3 +3,5 @@ framework/.ipynb_checkpoints/*
 venv/*
 framework/embedding_cache/*
 .venv
+github.com/*
+.conda/*
