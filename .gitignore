@@ -4,4 +4,4 @@ venv/*
 framework/embedding_cache/*
 .venv
 github.com/*
-conda/*
+.conda/*
